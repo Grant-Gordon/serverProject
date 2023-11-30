@@ -1,5 +1,6 @@
 TODO:
-
+	
+	-turns out git is hard delete me once you get it.
 	-finish netNinja Totorial
 	-get laptop code onto git (Via cmd line, try your best)
 		somehow ssh files from pwrshell to ubuntu sub then onto git?? 
